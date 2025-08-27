@@ -107,7 +107,7 @@ nav a:hover::before {
 .hero::before, .hero::after {
     content: '';
     position: absolute;
-    background-color: var(--mario-red);
+    background-color: var(--cloud-white);
     border-radius: 50%;
     opacity: 0.8;
     animation: cloudMove 20s linear infinite;
